@@ -4,7 +4,7 @@ import requests
 
 keys = [
     {
-        "user_key": "random key",
+        "user_key": "apple",
         "discord_id": "idk",
         "hwid": "",
         "note": "",
