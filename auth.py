@@ -6,7 +6,7 @@ keys = [
     {
         "user_key": "apple",
         "discord_id": "idk",
-        "hwid": "",
+        "hwid": "bf28e7c711affaf53dd862594527efb63f0a025729f87128f37dbe6228c64952",
         "note": "",
         "uid": ""
     },
